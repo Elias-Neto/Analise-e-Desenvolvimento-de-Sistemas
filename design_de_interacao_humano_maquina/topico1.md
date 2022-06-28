@@ -4,11 +4,11 @@
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-- O que é Design?;
+- O que é Design?
 - Definição de User Experience (UX) e User Interface (UI);
 - Diferenças entre UX e UI;
 - Definição, conceitos, processo, metas e objetivos do Design de Interação;
-- Conceito de iteração;
+- Conceito de iteração.
 
 <br><br>
 
@@ -17,6 +17,8 @@
 <br>
 
 <strong>Apresentar a desconstrução de um artefato de design e sua significação na solução de um problema </strong>
+
+<br>
 
 <p>Nessa atividade, eu e meu time, escolhemos o Nubank como artefato de design para analisarmos. Na apresentação, pontuamos: </p>
 <ul>

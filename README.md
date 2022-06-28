@@ -26,7 +26,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>Design de Interação (UX/UI)</li>
           <li>Comunicação e Interface</li>
           <li>Usabilidade, Acessibilidade e Design Universal</li>
-          <li>Introdução a Interface Humano-Computador (HCI)</li>
+          <li>Interação Humano-Computador (HCI)</li>
           <li>Ergonomia de Interface</li>
           <li>Sensação, Percepção e Memória</li>
           <li>Cores e Técnicas de Inspção de Interface</li>

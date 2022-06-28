@@ -18,84 +18,106 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 <details>
   <summary>✅ <b>1° Período</b></summary>
-  <ul>
-    <a href="./nivel01/land01" style="text-decoration:none;"><li>✅<i>Design de Interação Humano-Máquina</i></li></a>
-      <ul>
-        <li>Design de Interação (UX/UI)</li>
-        <li>Comunicação e Interface</li>
-        <li>Usabilidade, Acessibilidade e Design Universal</li>
-        <li>Introdução a Interface Humano-Computador (HCI)</li>
-        <li>Ergonomia de Interface</li>
-        <li>Sensação, Percepção e Memória</li>
-        <li>Cores e Técnicas de Inspção de Interface</li>
-        <li>Heurísticas de Usabilidade</li>
-        <li>Prototipação</li>
-      </ul>
-    <a href="./nivel01/stage01" style="text-decoration:none;"><li>✅<i>Introdução à Redes de Computadores</i></li></a>
-      <ul>
-        <li>Redes de computadores e a Internet</li>
-        <li>Redes de comutação de pacotes</li>
-        <li>Camada de Aplicação</li>
-        <li>Aplicaçõs de redes e protocolos</li>
-        <li>Redes TCP/IP: Protocolo, transporte e roteamento</li>
-        <li>Redes sem fio e redes móveis</li>
-        <li>Segurança em redes de computadores I: Redes cabeadas, sem fio e internet</li>
-        <li>Segurança em redes de computadores II: Firewalls e sistemas de detecção de intrusão</li>
-        <li>Estudo de caso em Linux I: Conceitos, definições, preparando ambiente</li>
-        <li>Estudo de caso em Linux II: Configuração do servidor de aplicação web</li>
-      </ul>
-    <a href="./nivel01/stage01" style="text-decoration:none;"><li>✅<i>Introdução ao Desenvolvimento Web</i></li></a>
-    <ul>
-      <li>Introdução ao Desenvolvimento Web</li>
-      <li>HTML e CSS: Estrutura, Sintaxe e Conceitos</li>
-      <li>Elementos HTML I: Cabeçalhos, parágrados, quebras de linhas e block level</li>
-      <li>Elementos HTML II: Imagens, hyperlinks, tabelas, listas, formulários e cores</li>
-      <li>Layouts, SEO, Doctype, Meta, Performance e Templates</li>
-      <li>Introdução ao CSS: Inline, interno e externo; Fundamentos e seletores</li>
-      <li>CSS: Box-model, borders, margins, paddings, backgrounds, rounded corners</li>
-      <li>Position, floating, overflow, z-index</li>
-      <li>Introdução ao JavaScript: DOOM, eventos e fundamentos</li>
-      <li>Boas práticas e introdução a frameworks CSS e JS</li>
-      <li></li>
-    </ul>
-    <a href="./nivel01/stage01" style="text-decoration:none;"><li>✅<i>Matemática Discreta</i></li></a>
-    <ul>
-      <li>Noções de Lógica Matemática</li>
-      <li>Noções de Lógica de Programação</li>
-      <li>Álgebra dos Conjuntos</li>
-      <li>Álgebra de Boole</li>
-      <li>Relações</li>
-      <li>Funções</li>
-      <li>Matrizes e Frações</li>
-      <li>Matemática usando Python/R</li>
-      <li>Indução Matemática</li>
-      <li>Recursão e Relações de Recorrência</li>
-    </ul>
-    <a href="./nivel01/stage01" style="text-decoration:none;"><li>✅<i>Pensamento Computacional e Algoritmos</i></li></a>
-    <ul>
-      <li>Pensamento lógico e conceito de algoritmos</li>
-      <li>Variáveis, constantes e tipos de dados</li>
-      <li>Operadores aritméticos, relacionais e lógicos</li>
-      <li>Estrutura sequencial</li>
-      <li>Estrutura condicional</li>
-      <li>Estrutura de repetição</li>
-      <li>Variáveis compostas homogêneas: Matrizes</li>
-      <li>Modularização I: Introdução, Procedimentos e Funções</li>
-      <li>Modularização II: Passagem de parâmetros e Recursividade</li>
-    </ul>
-    <a href="./nivel01/stage01" style="text-decoration:none;"><li>✅<i>Projeto Integrador I: Concepção e Prototipação</i></li></a>
-    <ul>
-      <li>Conceitos de Design Thinking e Design Sprint</li>
-      <li>Princípios do Processo de trabalho colaborativo e cooperativo</li>
-      <li>Princípios de Metodologia ágil de desenvolvimento de software</li>
-      <li>Técnicas de especificação de requisitos e geração de Backlog</li>
-      <li>Princípios de Planejamento e Gestão de Projeto</li>
-      <li>Introdução à Prototipação de aplicações</li>
-      <li>Planejamento de Cronograma de Atividades e Gestão de Tarefas</li>
-      <li>Processo de Mentoria para Elaboração de um Projeto</li>
-      <li>Validação de Requisitos de Software</li>
-    </ul>
-  </ul>
+  <ul style="list-style:none">
+    <li>
+      <details>
+        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Design de Interação Humano-Máquina</i></a></summary>
+        <ul>
+          <li>Design de Interação (UX/UI)</li>
+          <li>Comunicação e Interface</li>
+          <li>Usabilidade, Acessibilidade e Design Universal</li>
+          <li>Introdução a Interface Humano-Computador (HCI)</li>
+          <li>Ergonomia de Interface</li>
+          <li>Sensação, Percepção e Memória</li>
+          <li>Cores e Técnicas de Inspção de Interface</li>
+          <li>Heurísticas de Usabilidade</li>
+          <li>Prototipação</li>
+        </ul>
+      </deatails>
+    </li>
+    <li>
+      <details>
+        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Introdução a Redes de Computados</i></a></summary>
+        <ul>
+          <li>Redes de computadores e a Internet</li>
+          <li>Redes de comutação de pacotes</li>
+          <li>Camada de Aplicação</li>
+          <li>Aplicaçõs de redes e protocolos</li>
+          <li>Redes TCP/IP: Protocolo, transporte e roteamento</li>
+          <li>Redes sem fio e redes móveis</li>
+          <li>Segurança em redes de computadores I: Redes cabeadas, sem fio e internet</li>
+          <li>Segurança em redes de computadores II: Firewalls e sistemas de detecção de intrusão</li>
+          <li>Estudo de caso em Linux I: Conceitos, definições, preparando ambiente</li>
+          <li>Estudo de caso em Linux II: Configuração do servidor de aplicação web</li>
+        </ul>
+      </deatails>
+    </li>
+    <li>
+      <details>
+        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Introdução ao Desenvolvimento Web</i></a></summary>
+        <ul>
+          <li>Introdução ao Desenvolvimento Web</li>
+          <li>HTML e CSS: Estrutura, Sintaxe e Conceitos</li>
+          <li>Elementos HTML I: Cabeçalhos, parágrados, quebras de linhas e block level</li>
+          <li>Elementos HTML II: Imagens, hyperlinks, tabelas, listas, formulários e cores</li>
+          <li>Layouts, SEO, Doctype, Meta, Performance e Templates</li>
+          <li>Introdução ao CSS: Inline, interno e externo; Fundamentos e seletores</li>
+          <li>CSS: Box-model, borders, margins, paddings, backgrounds, rounded corners</li>
+          <li>Position, floating, overflow, z-index</li>
+          <li>Introdução ao JavaScript: DOOM, eventos e fundamentos</li>
+          <li>Boas práticas e introdução a frameworks CSS e JS</li>
+        </ul>
+      </deatails>
+    </li>
+    <li>
+      <details>
+        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Matemática Discreta</i></a></summary>
+        <ul>
+          <li>Noções de Lógica Matemática</li>
+          <li>Noções de Lógica de Programação</li>
+          <li>Álgebra dos Conjuntos</li>
+          <li>Álgebra de Boole</li>
+          <li>Relações</li>
+          <li>Funções</li>
+          <li>Matrizes e Frações</li>
+          <li>Matemática usando Python/R</li>
+          <li>Indução Matemática</li>
+          <li>Recursão e Relações de Recorrência</li>
+        </ul>
+      </deatails>
+    </li>
+    <li>
+      <details>
+        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Pensamento Computacional e Algoritmos</i></a></summary>
+        <ul>
+          <li>Pensamento lógico e conceito de algoritmos</li>
+          <li>Variáveis, constantes e tipos de dados</li>
+          <li>Operadores aritméticos, relacionais e lógicos</li>
+          <li>Estrutura sequencial</li>
+          <li>Estrutura condicional</li>
+          <li>Estrutura de repetição</li>
+          <li>Variáveis compostas homogêneas: Matrizes</li>
+          <li>Modularização I: Introdução, Procedimentos e Funções</li>
+          <li>Modularização II: Passagem de parâmetros e Recursividade</li>
+        </ul>
+      </deatails>
+    </li>
+    <li>
+      <details>
+        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Projeto Integrador I: Concepção e Prototipação</i></a></summary>
+        <ul>
+          <li>Conceitos de Design Thinking e Design Sprint</li>
+          <li>Princípios do Processo de trabalho colaborativo e cooperativo</li>
+          <li>Princípios de Metodologia ágil de desenvolvimento de software</li>
+          <li>Técnicas de especificação de requisitos e geração de Backlog</li>
+          <li>Princípios de Planejamento e Gestão de Projeto</li>
+          <li>Introdução à Prototipação de aplicações</li>
+          <li>Planejamento de Cronograma de Atividades e Gestão de Tarefas</li>
+          <li>Processo de Mentoria para Elaboração de um Projeto</li>
+          <li>Validação de Requisitos de Software</li>
+        </ul>
+      </deatails>
+    </li>
 </details>
 
 <details>

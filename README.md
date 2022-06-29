@@ -29,7 +29,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>Interação Humano-Computador (HCI)</li>
           <li>Ergonomia de Interface</li>
           <li>Sensação, Percepção e Memória</li>
-          <li>Cores e Técnicas de Inspção de Interface</li>
+          <li>Cores e Técnicas de Avaliação de Interface</li>
           <li>Heurísticas de Usabilidade</li>
           <li>Prototipação</li>
         </ul>

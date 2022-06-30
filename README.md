@@ -38,7 +38,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     </li>
     <li>
       <details>
-        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Introdução a Redes de Computadores</i></a></summary>
+        <summary><a href="./introducao_a_redes_de_computadores" style="text-decoration:none;">✅<i> Introdução a Redes de Computadores</i></a></summary>
         <ul>
           <li>🌐 Introdução a Redes de Computadores e a Internet</li>
           <li>🏢 Protocolos e Camadas</li>

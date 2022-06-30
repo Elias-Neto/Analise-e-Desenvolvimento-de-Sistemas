@@ -74,14 +74,12 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
         <ul>
           <li>🧠 Noções de Lógica Matemática</li>
           <li>🤖 Noções de Lógica de Programação</li>
-          <li>Álgebra dos Conjuntos</li>
-          <li>Álgebra de Boole</li>
-          <li>Relações</li>
-          <li>Funções</li>
-          <li>Matrizes e Frações</li>
-          <li>Matemática usando Python/R</li>
-          <li>Indução Matemática</li>
-          <li>Recursão e Relações de Recorrência</li>
+          <li>⭕ Álgebra de Conjuntos</li>
+          <li>🔓 Álgebra de Boole</li>
+          <li>🔗 Relações</li>
+          <li>📈 Funções</li>
+          <li>🔢 Sequências</li>
+          <li>➕ Matrizes</li>
         </ul>
       </deatails>
     </li>

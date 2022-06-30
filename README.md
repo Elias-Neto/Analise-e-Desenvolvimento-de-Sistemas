@@ -58,9 +58,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>🌐 Introdução ao Desenvolvimento Web</li>
           <li>🧡 HTML: Estrutura, sintaxe, conceitos, cabeçalhos, parágrados e quebras de linhas</li>
           <li>🧡 HTML: Entites, emojis, tags de formatação, tags de citação, listas e links</li>
-          <li>Elementos HTML II: Imagens, hyperlinks, tabelas, listas, formulários e cores</li>
-          <li>Layouts, SEO, Doctype, Meta, Performance e Templates</li>
-          <li>Introdução ao CSS: Inline, interno e externo; Fundamentos e seletores</li>
+          <li>💙 CSS: Tipos de css, fontes, cores, classe, id, estados de link</li>
+          <li>🧡 HTML: Formulários</li>
+          <li>💙 CSS: Box-model (margin, border, padding, background)</li>
           <li>CSS: Box-model, borders, margins, paddings, backgrounds, rounded corners</li>
           <li>Position, floating, overflow, z-index</li>
           <li>Introdução ao JavaScript: DOOM, eventos e fundamentos</li>

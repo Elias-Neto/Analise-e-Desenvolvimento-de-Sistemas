@@ -44,7 +44,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>🏢 Protocolos e Camadas</li>
           <li>📍 Endereço IP</li>
           <li>🧩 Topologias de Rede</li>
-          <li>🛠 Aplicações Práticas</li>
+          <li>🛠 Montagem e Configuração de Redes</li>
           <li>📶 Redes sem fio e redes móveis</li>
           <li>🐧 Estudo de caso em Linux I: Conceitos, definições, preparando ambiente</li>
           <li>🐧 Estudo de caso em Linux II: Configuração do servidor de aplicação web</li>
@@ -55,9 +55,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
       <details>
         <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Introdução ao Desenvolvimento Web</i></a></summary>
         <ul>
-          <li>Introdução ao Desenvolvimento Web</li>
-          <li>HTML e CSS: Estrutura, Sintaxe e Conceitos</li>
-          <li>Elementos HTML I: Cabeçalhos, parágrados, quebras de linhas e block level</li>
+          <li>🌐 Introdução ao Desenvolvimento Web</li>
+          <li>🧡 HTML: Estrutura, sintaxe, conceitos, cabeçalhos, parágrados e quebras de linhas</li>
+          <li>🧡 HTML: Entites, emojis, tags de formatação, tags de citação, listas e links</li>
           <li>Elementos HTML II: Imagens, hyperlinks, tabelas, listas, formulários e cores</li>
           <li>Layouts, SEO, Doctype, Meta, Performance e Templates</li>
           <li>Introdução ao CSS: Inline, interno e externo; Fundamentos e seletores</li>

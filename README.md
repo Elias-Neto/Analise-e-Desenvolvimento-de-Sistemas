@@ -63,7 +63,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>💙 CSS: Box-model (margin, border, padding, background)</li>
           <li>💙 CSS: Overflow, flexbox, border-radius, box-shadow</li>
           <li>🧡 HTML: Tabelas</li>
-          <li>🛠 Frameworks</li>
+          <li>🔨 Frameworks</li>
           <li>💛 JavaScript: Introdução, DOM, funções, variáveis, estrutura condicional básica e operadores aritméticos e comparativos</li>
         </ul>
       </deatails>
@@ -72,8 +72,8 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
       <details>
         <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Matemática Discreta</i></a></summary>
         <ul>
-          <li>Noções de Lógica Matemática</li>
-          <li>Noções de Lógica de Programação</li>
+          <li>🧠 Noções de Lógica Matemática</li>
+          <li>🤖 Noções de Lógica de Programação</li>
           <li>Álgebra dos Conjuntos</li>
           <li>Álgebra de Boole</li>
           <li>Relações</li>

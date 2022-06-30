@@ -11,7 +11,7 @@
 - Principais protocolos Wi-Fi (EEE 802.11a, EEE 802.11b, EEE 802.11g, EEE 802.11n, EEE 802.11ac);
 - Segurança e Criptografia em Redes Wi-Fi;
 - Tipos de equipamentos para redes Wi-Fi;
-- Tecnologias recentes (Wi-Fi 6)
+- Tecnologias recentes (Wi-Fi 6).
 
 
 <br><br>

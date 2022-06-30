@@ -23,15 +23,16 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
       <details>
         <summary><a href="./design_de_interacao_humano_maquina" style="text-decoration:none;">✅<i> Design de Interação Humano-Máquina</i></a></summary>
         <ul>
-          <li>Design de Interação (UX/UI)</li>
-          <li>Comunicação e Interface</li>
-          <li>Usabilidade, Acessibilidade e Design Universal</li>
-          <li>Interação Humano-Computador (HCI)</li>
-          <li>Ergonomia de Interface</li>
-          <li>Sensação, Percepção e Memória</li>
-          <li>Cores e Técnicas de Avaliação de Interface</li>
-          <li>Heurísticas de Usabilidade</li>
-          <li>Prototipação</li>
+          <li>👑 Design de Interação (UX/UI)</li>
+          <li>👥 Comunicação e Interface</li>
+          <li>🌎 Usuabilidade, Acessibilidade e Design Universal</li>
+          <li>💻 Interação Humano-Computador</li>
+          <li>💆‍♂️ Ergonomia</li>
+          <li>🧠 Sensação, Percepção e Memória</li>
+          <li>📌 Modelos e Mapas Mentais</li>
+          <li>🎨 Cores e Técnicas de Avaliação de Interface</li>
+          <li>🔍 Heurísticas de Usuabilidade</li>
+          <li>📱 Prototipagem</li>
         </ul>
       </deatails>
     </li>
@@ -45,8 +46,8 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>🧩 Topologias de Rede</li>
           <li>🛠 Aplicações Práticas</li>
           <li>📶 Redes sem fio e redes móveis</li>
-          <li>Estudo de caso em Linux I: Conceitos, definições, preparando ambiente</li>
-          <li>Estudo de caso em Linux II: Configuração do servidor de aplicação web</li>
+          <li>🐧 Estudo de caso em Linux I: Conceitos, definições, preparando ambiente</li>
+          <li>🐧 Estudo de caso em Linux II: Configuração do servidor de aplicação web</li>
         </ul>
       </deatails>
     </li>

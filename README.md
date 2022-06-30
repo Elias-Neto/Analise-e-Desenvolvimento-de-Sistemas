@@ -53,7 +53,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     </li>
     <li>
       <details>
-        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Introdução ao Desenvolvimento Web</i></a></summary>
+        <summary><a href="./introducao_ao_desenvolvimento_web" style="text-decoration:none;">✅<i> Introdução ao Desenvolvimento Web</i></a></summary>
         <ul>
           <li>🌐 Introdução ao Desenvolvimento Web</li>
           <li>🧡 HTML: Estrutura, sintaxe, conceitos, cabeçalhos, parágrados e quebras de linhas</li>

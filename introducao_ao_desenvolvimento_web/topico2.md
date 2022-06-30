@@ -15,7 +15,6 @@
 - Elemento de quebra de linha br;
 - Comentários HTML;
 
-
 <br><br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>

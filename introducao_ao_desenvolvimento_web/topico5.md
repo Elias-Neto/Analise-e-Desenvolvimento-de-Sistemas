@@ -8,8 +8,6 @@
 - Usar tag input e seus vários tipos (texto, email, senha, submit, checkbox e radio);
 - Tag textarea;
 
-
-
 <br><br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>

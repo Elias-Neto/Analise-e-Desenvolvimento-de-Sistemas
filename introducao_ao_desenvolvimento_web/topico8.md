@@ -1,11 +1,12 @@
-<h1>💙 CSS: Box-model (margin, border, padding, background)</h1>
+<h1>🧡 HTML: Tabelas</h1>
 
 <br>
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-- Conceito de Box-model (margin, border, padding, background);
-- Centralizar texto com css (text-align: center);
+- Como estruturar e manipular tabelas com HTML;
+- Como utilizar semântica nas tabelas em HTML;
+- Como estilizar tabelas zebradas com CSS;
 
 <br><br>
 

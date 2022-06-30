@@ -14,7 +14,6 @@
 - O que é e como utilizar classe e id;
 - Estilizar estados diferentes de links;
 
-
 <br><br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>

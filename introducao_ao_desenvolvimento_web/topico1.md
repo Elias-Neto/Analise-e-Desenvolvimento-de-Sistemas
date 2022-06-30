@@ -13,7 +13,6 @@
 - O que é e pra que ser ve a URL (Uniform Resource Locator);
 - O que é e pra que serve o HTML, CSS e JavaScript;
 
-
 <br><br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>

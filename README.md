@@ -61,10 +61,10 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>💙 CSS: Tipos de css, fontes, cores, classe, id, estados de link</li>
           <li>🧡 HTML: Formulários</li>
           <li>💙 CSS: Box-model (margin, border, padding, background)</li>
-          <li>CSS: Box-model, borders, margins, paddings, backgrounds, rounded corners</li>
-          <li>Position, floating, overflow, z-index</li>
-          <li>Introdução ao JavaScript: DOOM, eventos e fundamentos</li>
-          <li>Boas práticas e introdução a frameworks CSS e JS</li>
+          <li>💙 CSS: Overflow, flexbox, border-radius, box-shadow</li>
+          <li>🧡 HTML: Tabelas</li>
+          <li>🛠 Frameworks</li>
+          <li>💛 JavaScript: Introdução, DOM, funções, variáveis, estrutura condicional básica e operadores aritméticos e comparativos</li>
         </ul>
       </deatails>
     </li>

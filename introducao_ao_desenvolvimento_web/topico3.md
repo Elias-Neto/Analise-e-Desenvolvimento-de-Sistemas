@@ -11,7 +11,6 @@
 - Listas (ordenadas, desordenadas e atributos);
 - Links (Atributos, Âncoras, Externos, com imagens e de e-mail);
 
-
 <br><br>
 
 <p align="center"> Desenvolvido com 💜 por Elias de Araújo Ferreira Neto 👋 <p>

@@ -39,14 +39,12 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
       <details>
         <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Introdução a Redes de Computadores</i></a></summary>
         <ul>
-          <li>Redes de computadores e a Internet I</li>
-          <li>Redes de computadores e a Internet II</li>
-          <li>Redes de computadores e a Internet III</li>
-          <li>Redes de computadores e a Internet IV</li>
-          <li>Redes de computadores e a Internet V</li>
-          <li>Redes sem fio e redes móveis</li>
-          <li>Segurança em redes de computadores I: Redes cabeadas, sem fio e internet</li>
-          <li>Segurança em redes de computadores II: Firewalls e sistemas de detecção de intrusão</li>
+          <li>🌐 Introdução a Redes de Computadores e a Internet</li>
+          <li>🏢 Protocolos e Camadas</li>
+          <li>📍 Endereço IP</li>
+          <li>🧩 Topologias de Rede</li>
+          <li>🛠 Aplicações Práticas</li>
+          <li>📶 Redes sem fio e redes móveis</li>
           <li>Estudo de caso em Linux I: Conceitos, definições, preparando ambiente</li>
           <li>Estudo de caso em Linux II: Configuração do servidor de aplicação web</li>
         </ul>

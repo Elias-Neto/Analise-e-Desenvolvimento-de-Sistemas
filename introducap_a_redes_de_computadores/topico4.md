@@ -1,12 +1,13 @@
-<h1> 📱 Prototipagem </h1>
+<h1>🧩 Topologias de Rede</h1>
 
 <br>
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-- O que é prototipagem;
-- Tipos de prototipagem;
-- Algumas ferramentas para prototipação;
+- O que é Topologia de Rede;
+- Tipos de Topologias de Rede;
+- Diferença entre HUB e Switch;
+
 
 <br><br>
 

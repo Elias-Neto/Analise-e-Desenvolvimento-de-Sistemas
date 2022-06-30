@@ -1,12 +1,11 @@
-<h1> 📱 Prototipagem </h1>
+<h1>🛠 Aplicações Práticas</h1>
 
 <br>
 
 <h2> 📥 Conhecimento adquirido </h2>
 
-- O que é prototipagem;
-- Tipos de prototipagem;
-- Algumas ferramentas para prototipação;
+- Como montar uma rede na prática utilizando Cisco Packet Tracer;
+
 
 <br><br>
 

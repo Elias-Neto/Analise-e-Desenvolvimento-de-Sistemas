@@ -87,9 +87,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
       <details>
         <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Pensamento Computacional e Algoritmos</i></a></summary>
         <ul>
-          <li>Pensamento lógico e conceito de algoritmos</li>
-          <li>Variáveis, constantes e tipos de dados</li>
-          <li>Operadores aritméticos, relacionais e lógicos</li>
+          <li>🧠 Pensamento lógico e conceito de algoritmos</li>
+          <li>🎲 Variáveis, constantes e tipos de dados</li>
+          <li>🔢 Operadores aritméticos, relacionais e lógicos</li>
           <li>Estrutura sequencial</li>
           <li>Estrutura condicional</li>
           <li>Estrutura de repetição</li>

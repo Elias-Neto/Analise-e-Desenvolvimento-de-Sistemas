@@ -93,9 +93,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
           <li>🧱 Estrutura sequencial</li>
           <li>🔀 Estrutura condicional</li>
           <li>🔁 Estrutura de repetição</li>
-          <li>Variáveis compostas homogêneas: Matrizes</li>
-          <li>Modularização I: Introdução, Procedimentos e Funções</li>
-          <li>Modularização II: Passagem de parâmetros e Recursividade</li>
+          <li>➖ Variáveis compostas homogêneas: Vetores</li>
+          <li>➕ Variáveis compostas homogêneas: Matrizes</li>
+          <li>🔧 Modularização: Introdução, Procedimentos e Funções</li>
         </ul>
       </deatails>
     </li>

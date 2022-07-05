@@ -2,7 +2,8 @@
 
 <p>
   Essa é uma disciplina prática que durará todo o curso. Nela, eu e mais um time de 5 pessoas, iremos desenvolver uma 
-  solução para sanar um problema real de uma empresa.
+  solução para sanar um problema real de uma empresa. Durante o curso seremos acompanhados por um orientador e os demais 
+  professores para que ao final possamos apresentar um MVP (Minimum Viable Product).
 </p>
 
 <br><br>
@@ -78,6 +79,7 @@
   <li>Planejamento e gestão de projeto;</li>
   <li>Planejamento de cronograma de atividades e gestão de tarefas;</li>
   <li>Técnicas de especificação de requisitos e geração de backlog;</li>
+  <li>Apresentação de mercado (PITCH);</li>
   <li>Documentação de Requisitos;</li>
   <li>Modelagem BPMN para ciclo de vida de um projeto;</li>
   <li>Prototipação de aplicações;</li>

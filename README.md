@@ -6,17 +6,16 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 <br>
 
-### 📚 Ementa
 
 <details>
   <summary>✅ <b>1° Período</b></summary>
   <ul>
-    <li><a href="./design_de_interacao_humano_maquina" style="text-decoration:none;">✅<i> Design de Interação Humano-Máquina</i></a></li>
-    <li><a href="./introducao_a_redes_de_computadores" style="text-decoration:none;">✅<i> Introdução a Redes de Computadores</i></a></li>
-    <li><a href="./introducao_ao_desenvolvimento_web" style="text-decoration:none;">✅<i> Introdução ao Desenvolvimento Web</i></a></li>
-    <li><a href="./metamatica_discreta" style="text-decoration:none;">✅<i> Matemática Discreta</i></a></li>
-    <li><a href="./pensamento_computacional_e_algoritmos style="text-decoration:none;">✅<i> Pensamento Computacional e Algoritmos</i></a></li>
-    <li><a href="./projeto_integrador_I" style="text-decoration:none;">✅<i>Projeto Integrador I: Concepção e Prototipação</i></a></li>
+    <li><a href="./design_de_interacao_humano_maquina/README.md" style="text-decoration:none;">✅<i> Design de Interação Humano-Máquina</i></a></li>
+    <li><a href="./introducao_a_redes_de_computadores/README.md" style="text-decoration:none;">✅<i> Introdução a Redes de Computadores</i></a></li>
+    <li><a href="./introducao_ao_desenvolvimento_web/README.md" style="text-decoration:none;">✅<i> Introdução ao Desenvolvimento Web</i></a></li>
+    <li><a href="./matematica_discreta/README.md" style="text-decoration:none;">✅<i> Matemática Discreta</i></a></li>
+    <li><a href="./pensamento_computacional_e_algoritmos/README.md" style="text-decoration:none;">✅<i> Pensamento Computacional e Algoritmos</i></a></li>
+    <li><a href="./projeto_integrador_I/README.md" style="text-decoration:none;">✅<i>Projeto Integrador I: Concepção e Prototipação</i></a></li>
   </ul>
 </details>
 

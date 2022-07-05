@@ -10,7 +10,6 @@
 <h2>💡 Problema</h2>
 
 <p>
-  <br>
   Primeiramente, a empresa para a qual estamos desenvolvendo a solução se chama Camel. Ela é uma empresa distribuidora
   de materiais elétricos aqui do Agreste de Pernambuco.
 </p>
@@ -39,7 +38,6 @@
 <h2>💻 Desenvolvimento</h2>
 
 <p>
-  <br>
   Durante esse primeiro período, eu e meu time desenvolvemos:
   <ul>
     <li>Levantamento de Requisitos;</li>

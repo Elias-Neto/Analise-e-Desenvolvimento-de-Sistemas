@@ -70,7 +70,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     </li>
     <li>
       <details>
-        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Matemática Discreta</i></a></summary>
+        <summary><a href="./metamatica_discreta" style="text-decoration:none;">✅<i> Matemática Discreta</i></a></summary>
         <ul>
           <li>🧠 Noções de Lógica Matemática</li>
           <li>🤖 Noções de Lógica de Programação</li>
@@ -85,7 +85,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     </li>
     <li>
       <details>
-        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Pensamento Computacional e Algoritmos</i></a></summary>
+        <summary><a href="./pensamento_computacional_e_algoritmos style="text-decoration:none;">✅<i> Pensamento Computacional e Algoritmos</i></a></summary>
         <ul>
           <li>🧠 Pensamento lógico e conceito de algoritmos</li>
           <li>🎲 Variáveis, constantes e tipos de dados</li>
@@ -101,7 +101,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     </li>
     <li>
       <details>
-        <summary><a href="./nivel01/land01" style="text-decoration:none;">✅<i> Projeto Integrador I: Concepção e Prototipação</i></a></summary>
+        <summary><a href="./projeto_integrador_I" style="text-decoration:none;">✅<i>Projeto Integrador I: Concepção e Prototipação</i></a></summary>
         <ul>
           <li>Conceitos de Design Thinking e Design Sprint</li>
           <li>Princípios do Processo de trabalho colaborativo e cooperativo</li>

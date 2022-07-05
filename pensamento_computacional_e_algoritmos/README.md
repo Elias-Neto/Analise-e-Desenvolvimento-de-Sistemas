@@ -1,4 +1,4 @@
-<h1>Matemática Discreta</h1>
+<h1>Pensamento Computacional e Algoritmos</h1>
 
 <a href="./topico1" style="text-decoration:none;">🧠 Pensamento lógico e conceito de algoritmos</a><br>
 <a href="./topico2" style="text-decoration:none;">🎲 Variáveis, constantes e tipos de dados</a><br>

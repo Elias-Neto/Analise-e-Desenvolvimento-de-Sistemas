@@ -13,15 +13,17 @@
   <br>
   Primeiramente, a empresa para a qual estamos desenvolvendo a solução se chama Camel. Ela é uma empresa distribuidora
   de materiais elétricos aqui do Agreste de Pernambuco.
-  
-  <br>
+</p>
+
+<p>
   O problema que a Camel enfrenta é o seguinte: o seu grande público está voltado para o atacado, dessa forma, o problema
   surge do outro lado da moeda, o publico varejista enxerga o atendimento da Camel como obsoleto. Ou seja, o cliente que
   precisa comprar apenas uma lâmpada - por exemplo - não vivencia uma boa experiência (seja pela falta de clareza
   dos produtos disponíveis no catálogo, seja pela demora no atendimento, seja pela burocracia para finalizar a compra, seja
   pela falta de informação, entre outros empecilhos).
+</p>
 
-  <br>
+<p>
   Partindo desse pressuposto, a solução idealizada é um ambiente (website) que:
   <ul>
     <li>Seja um catálogo interativo, proporcionando uma imersão clara, organizada e confortável no universo de produtos da Camel;</li>
@@ -45,14 +47,17 @@
     <li>Protótipo de Baixa Fidelidade (Paint | Papel e Caneta);</li>
     <li>Protótipo de Média Fidelidade (Figma);</li>
     <li>Protótipo de Alta Fidelidade (Front-end).</li>
-  </ul>
+  </ul>  
+</p>
 
-  <br>
+
+<p>
   Nosso time se dividiu em 5 funções engenheiro(a) de software, engenheiro(a) de requisitos, analista de requisitos e
   , Scrum Master e Gerente de Projeto. Além dessas funções, também tivemos um PO que nos acompanhou durante
   o desenvolvimento.
+</p>
 
-  <br>
+<p>
   Inicialmente, escolhi assumir o cargo de engenheiro de software, ao decorrer do semestre, meu time mim
   intitulou como Gerente de Projeto, cargo esse que veio com muitas responsabilidades e, consequentemente,
   muito aprendizado.

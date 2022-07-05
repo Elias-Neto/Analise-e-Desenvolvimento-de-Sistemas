@@ -15,7 +15,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./introducao_ao_desenvolvimento_web/README.md" style="text-decoration:none;">✅<i> Introdução ao Desenvolvimento Web</i></a></li>
     <li><a href="./matematica_discreta/README.md" style="text-decoration:none;">✅<i> Matemática Discreta</i></a></li>
     <li><a href="./pensamento_computacional_e_algoritmos/README.md" style="text-decoration:none;">✅<i> Pensamento Computacional e Algoritmos</i></a></li>
-    <li><a href="./projeto_integrador_I/README.md" style="text-decoration:none;">✅<i>Projeto Integrador I: Concepção e Prototipação</i></a></li>
+    <li><a href="./projeto_integrador_I/README.md" style="text-decoration:none;">✅<i> Projeto Integrador I: Concepção e Prototipação</i></a></li>
   </ul>
 </details>
 
@@ -40,7 +40,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./" style="text-decoration:none;">🔄<i> Configuração e Manutenção de Software</i></a></li>
     <li><a href="./" style="text-decoration:none;">🔄<i> Design de Interação Humano-Máquina</i></a></li>
     <li><a href="./" style="text-decoration:none;">🔄<i> Estatística Aplicada</i></a></li>
-    <li><a href="./" style="text-decoration:none;">🔄<i> Projeto0 Integrador III: Desenvolvimento Full Stack</i></a></li>
+    <li><a href="./" style="text-decoration:none;">🔄<i> Projeto Integrador III: Desenvolvimento Full Stack</i></a></li>
   </ul>
 </details>
 
@@ -52,7 +52,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./" style="text-decoration:none;">🔄<i> Gestão de Projetos e Governança de TI</i></a></li>
     <li><a href="./" style="text-decoration:none;">🔄<i> Inovação e Empreendedorismo</i></a></li>
     <li><a href="./" style="text-decoration:none;">🔄<i> Sistemas Distribuídos</i></a></li>
-    <li><a href="./" style="text-decoration:none;">🔄<i> Projeto Integrador 4: Aplicações Móveis</i></a></li>
+    <li><a href="./" style="text-decoration:none;">🔄<i> Projeto Integrador IV: Aplicações Móveis</i></a></li>
   </ul>
 </details>
 
@@ -64,7 +64,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./" style="text-decoration:none;">🔄<i> Testes e Verificação de Software</i></a></li>
     <li><a href="./" style="text-decoration:none;">🔄<i> Sistemas Embarcados</i></a></li>
     <li><a href="./" style="text-decoration:none;">🔄<i> Segurança da Informação</i></a></li>
-    <li><a href="./" style="text-decoration:none;">🔄<i> Projeto Integrador 5: Sistemas Inteligentes</i></a></li>
+    <li><a href="./" style="text-decoration:none;">🔄<i> Projeto Integrador V: Sistemas Inteligentes</i></a></li>
   </ul>
 </details>
 

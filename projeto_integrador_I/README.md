@@ -48,7 +48,6 @@
   </ul>  
 </p>
 
-
 <p>
   Nosso time se dividiu em 5 funções engenheiro(a) de software, engenheiro(a) de requisitos, analista de requisitos e
   , Scrum Master e Gerente de Projeto. Além dessas funções, também tivemos um PO que nos acompanhou durante
@@ -59,6 +58,13 @@
   Inicialmente, escolhi assumir o cargo de engenheiro de software, ao decorrer do semestre, meu time mim
   intitulou como Gerente de Projeto, cargo esse que veio com muitas responsabilidades e, consequentemente,
   muito aprendizado.
+</p>
+
+<p>
+  Como já foi dito, essa disciplina estará presente durante todo o curso, portanto, o projeto estará em desenvolvimento
+  até o final da graduação, e o objetivo é entregar um MVP (Minimum Viable Product). Tendo isso em vista, criei um repositório
+  para guardar os códigos que eu e meu time estamos desenvolvendo: 
+  <a href="https://github.com/Elias-Neto/Camel-eletricidade">Repositório do Projeto</a>
 </p>
 
 <br><br>

@@ -2,19 +2,11 @@
   Análise e Desenvolvimento de Sistemas 🎓
 </h1>
 
-<div align="center">
-    <img src="https://t2.tudocdn.net/572277?w=646&h=284" width="400px" /> 
-</div>
-
-<br>
-
-## 💻 Projeto
-
 O objetivo deste repositório é documentar minha trajetória durante o curso tecnólgo de Análise e Desenvolvimento de Sistemas.
 
 <br>
 
-### Ementa
+### 📚 Ementa
 
 <details>
   <summary>✅ <b>1° Período</b></summary>

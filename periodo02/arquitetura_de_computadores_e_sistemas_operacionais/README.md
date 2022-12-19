@@ -27,3 +27,12 @@
 - Mecanismos de controle de acesso
 - Navegação e manipulação de diretórios
 - Shell: conceitos e comandos básicos
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../../">Voltar</a>

@@ -57,3 +57,12 @@
 - Machine Learning
 - Deep Learning
 - Processamento de dados
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../../">Voltar</a>

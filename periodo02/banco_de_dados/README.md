@@ -29,3 +29,12 @@
 - Tipos de dados e Restrições
 - SELECT, INSERT, DELETE e UPDATE
 - Consultas complexas utilizando JOIN
+
+<br>
+<br>
+
+<p align="center"> Desenvolvido com ❤ por Elias de Araújo Ferreira Neto 👋 <p>
+
+<br>
+
+<a href="../../">Voltar</a>

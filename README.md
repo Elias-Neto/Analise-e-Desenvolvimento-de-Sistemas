@@ -13,7 +13,7 @@ O objetivo deste repositório é compartilhar mais informações sobre os tópic
 - ✅ [Introdução ao Desenvolvimento Web](./periodo01/introducao_ao_desenvolvimento_web/)
 - ✅ [Matemática Discreta](./periodo01/matematica_discreta/)
 - ✅ [Pensamento Computacional e Algoritmos](./periodo01/pensamento_computacional_e_algoritmos/)
-- ✅ [Projeto Integrador - Concepção e Prototipação](./periodo01/projeto_integrador_I/)
+- ✅ [Projeto Integrador - Concepção e Prototipação](./periodo01/projeto_integrador/)
 
 ## 📌 2° Período
 

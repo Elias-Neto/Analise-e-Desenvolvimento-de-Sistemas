@@ -17,12 +17,12 @@ O objetivo deste repositório é compartilhar mais informações sobre os tópic
 
 ## 📌 2° Período
 
-- Arquitetura de Computadores e Sistemas Operacionais
-- Banco de Dados
-- Estrutura de Dados
-- Informática e Sociedade
-- Programação Orientada a Objetos
-- Projeto Integrador II: Modelagem de Banco de Dados
+- ✅ [Banco de Dados](./periodo02/banco_de_dados/)
+- ✅ [Arquitetura de Computadores e Sistemas Operacionais](./periodo02/arquitetura_de_computadores_e_sistemas_operacionais/)
+- ✅ [Programação Orientada a Objetos](./periodo02/programacao_orientada_a_objetos/)
+- ✅ [Informática e Sociedade](./periodo02/informatica_e_sociedade/)
+- ✅ [Estrutura de Dados](./periodo02/estrutura_de_dados/)
+- ✅ [Projeto Integrador II: Modelagem de Banco de Dados](./periodo02/projeto_integrador/)
 
 ## 📌 3° Período
 
